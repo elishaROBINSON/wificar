@@ -1,5 +1,5 @@
-WIFI_SSID='RER2'
-WIFI_PASSWORD='9789965082'
-MQTT_HOST='192.168.1.6'
+WIFI_SSID='<wifi_ap_name>'
+WIFI_PASSWORD='<wifi_password>'
+MQTT_HOST='<ip_address>'
 MQTT_TOPIC=b'wificar'
 
