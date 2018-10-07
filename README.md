@@ -1,5 +1,5 @@
-the wificar is a project i made as a small side project to demostrate the use of micropython for making simple IOT devices
-there.
+wificar is a small rc car i reperposed as a small side project to demostrate 
+the use of micropython for making simple IOT devices
 
 what you will need:
 <br> > a esp8266 microcontroller with micropython flashed on it.<\br>
@@ -18,3 +18,7 @@ how to use:
 <br> make changes to the mqtt service acording to your network and ip settings <\br>
 <br> start the mqtt service on the linux machine <\br>
 <br> run the controller.py file to control the messages sent <\br>
+
+warning: 
+the code is given as is with no implied warranty . use at own risk and please dont use any of
+it for production :) .
