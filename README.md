@@ -2,9 +2,9 @@ the wificar is a project i made as a small side project to demostrate the use of
 there.
 
 what you will need:
-> a esp8266 microcontroller with micropython flashed on it.
-> a linux machine to act as the mqtt server
-> a device to send mqtt messages.
+ <br>a esp8266 microcontroller with micropython flashed on it.<\br>
+<br> a linux machine to act as the mqtt server<\br>
+<br> a device to send mqtt messages.<\br>
 
 tools you may need :
 > https://github.com/wendlers/mpfshell
