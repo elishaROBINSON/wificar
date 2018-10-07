@@ -14,10 +14,10 @@ the script and code worked out for me in my testing your results may vary please
 and make adjustments as required
 
 how to use:
-<br> the main.py , boot.py and config.py files need to be copied on the esp8266 board you can use mpfshell for this<\br>
-<br> make changes to the mqtt service acording to your network and ip settings <\br>
-<br> start the mqtt service on the linux machine <\br>
-<br> run the controller.py file to control the messages sent <\br>
+<br> > the main.py , boot.py and config.py files need to be copied on the esp8266 board you can use mpfshell for this
+<br> > make changes to the mqtt service acording to your network and ip settings 
+<br> > start the mqtt service on the linux machine 
+<br> > run the controller.py file to control the messages sent 
 
 warning: 
 the code is given as is with no implied warranty . use at own risk and please dont use any of
