@@ -2,12 +2,12 @@ wificar is a small rc car i reperposed as a small side project to demostrate
 the use of micropython for making simple IOT devices
 
 what you will need:
-<br> > a esp8266 microcontroller with micropython flashed on it.<\br>
-<br> > a linux machine to act as the mqtt server<\br>
+<br> > a esp8266 microcontroller with micropython flashed on it.
+<br> > a linux machine to act as the mqtt server
 
 tools you may need :
-<br> > https://github.com/wendlers/mpfshell <\br>
-<br> > https://mosquitto.org/download/ <\br>
+<br> > https://github.com/wendlers/mpfshell 
+<br> > https://mosquitto.org/download/
 
 Note:
 the script and code worked out for me in my testing your results may vary please feel free to tweak 
